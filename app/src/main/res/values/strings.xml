@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BinaryXchange</string>>
+    <string name="app_intro">Masukkan angka biner di bawah ini dan cobalah mengonversinya ke berbagai hasil:</string>
+    <string name="about">Tentang Aplikasi</string>
+    <string name="hitung">Konversi</string>
+    <string name="bilangan_biner">Biner Input</string>
+    <string name="decimal">Desimal</string>
+    <string name="input_invalid">Input Harus Angka Biner.</string>
+    <string name="tentang_aplikasi">Tentang Aplikasi</string>
+    <string name="copyright">Aplikasi ini adalah kalkulator sederhana yang memungkinkan pengguna
+        untuk melakukan konversi antara bilangan biner dan desimal. Dengan antarmuka yang intuitif,
+        pengguna dapat memasukkan angka dalam format biner dan melihat hasil konversinya secara langsung.
+        Selain itu, aplikasi juga mendukung konversi dari bilangan biner ke huruf,
+        di mana setiap 8 bit biner akan diinterpretasikan sebagai karakter ASCII dna juga dapat melakukan konversi antara
+        bilangan biner ke octal.\n\nAplikasi ini dibuat untuk Assessment 1
+        .\n\nCopyright © 2024 Rafa Suryaputra.\nAll rights reserved.</string>
+    <string name="kembali">Kembali</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="bagikan_template">"Bilangan Biner: %1$s Di Ubah Ke: %2$s Hasil: %3$s "</string>
+    <string name="restart">Reset</string>
+    <string name="hasil_konversi_desimal">%1$s: %2$s</string>
+    <string name="hasil_konversi_ascii">%1$s: %2$s</string>
+    <string name="hasil_konversi_octal">%1$s: %2$s</string>
+</resources>

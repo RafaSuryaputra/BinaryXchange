@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BinaryXchange</string>
+    <string name="app_intro">Enter a binary number below and try converting it to various results:</string>
+    <string name="about">About Application</string>
+    <string name="hitung">Convert</string>
+    <string name="bilangan_biner">Binary Input</string>
+    <string name="decimal">Decimal</string>
+    <string name="input_invalid">Input Must Be a Binary number.</string>
+    <string name="tentang_aplikasi">About The Application</string>
+    <string name="copyright">This application is a simple calculator that allows users
+        to convert between binary and decimal numbers. With an intuitive interface,
+        users can input numbers in binary format and see the conversion results immediately.
+        Additionally, the app also supports conversion from binary numbers to letters,
+        where every 8 binary bits will be interpreted as an ASCII character, and it can also perform conversions between
+        binary and octal numbers.\n\nThis application was created for Assessment 1
+        .\n\nCopyright © 2024 Rafa Suryaputra.\nAll rights reserved.</string>
+    <string name="kembali">Back</string>
+    <string name="bagikan">Share</string>
+    <string name="bagikan_template">Binary Number: %1$s Converted To: %2$s Result: %3$s</string>
+    <string name="restart">Restart</string>
+    <string name="hasil_konversi_desimal">%1$s: %2$s</string>
+    <string name="hasil_konversi_ascii">%1$s: %2$s</string>
+    <string name="hasil_konversi_octal">%1$s: %2$s</string>
+</resources>
